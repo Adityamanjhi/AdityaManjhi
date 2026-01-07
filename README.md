@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Manjhi</h1>
 <h3 align="center">A passionate Mobile Developer.</h3>
 
-- 🔭 I’m currently working on **Paisabazaar App**
+- 🔭 I’m currently working on **Mobile Apps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
