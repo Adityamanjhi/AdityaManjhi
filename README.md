@@ -14,4 +14,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityamanjhi&show_icons=true&locale=en&layout=compact" alt="adityamanjhi" /></p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/AdityaManjhi?theme=dark&font=Open%20Sans&ext=heatmap)
+<!--![LeetCode Stats](https://leetcard.jacoblin.cool/AdityaManjhi?theme=dark&font=Open%20Sans&ext=heatmap) -->
