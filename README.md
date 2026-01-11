@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Manjhi</h1>
-<h3 align="center">A passionate Mobile Developer.</h3>
+<h3 align="center">Mobile Developer solving Data Structures & Algorithms, one problem at a time 🚀</h3>
 
-- 🔭 I’m currently working on **Paisabazaar App**
+- 🔭 I’m currently working on scalable and performance-driven mobile apps.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
